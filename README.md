@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Namisens-NarenSadhwani
 - 👀 I’m interested in Robotics, AI
 - 🌱 I’m currently learning QT Software Development
-- 💞️ I’m looking to collaborate on Embedded Devices
+- 💞️ I’m looking to collaborate on ML,DL,Vision development for Embedded Devices, Cloud
 - 📫 How to reach me naren.sadhwani@namisens.de
 
 <!---
